@@ -6,6 +6,7 @@ import java.util.Iterator;
 
 /**
  * Class explaining the usage of ArrayList
+ * ArrayList supports dynamic arrays that can grow as needed.
  * 
  * @author prithviMandula
  */
