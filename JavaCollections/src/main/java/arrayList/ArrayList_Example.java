@@ -6,7 +6,11 @@ import java.util.Iterator;
 
 /**
  * Class explaining the usage of ArrayList
+ * 
  * ArrayList supports dynamic arrays that can grow as needed.
+ * Entries in Array list will be stored sequentially in the memory
+ * Not good if list needs to be manipulated many times
+ * Access each entry directly without iterating through the entire list 
  * 
  * @author prithviMandula
  */
