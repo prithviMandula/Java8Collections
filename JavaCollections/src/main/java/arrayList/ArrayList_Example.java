@@ -10,7 +10,8 @@ import java.util.Iterator;
  * ArrayList supports dynamic arrays that can grow as needed.
  * Entries in Array list will be stored sequentially in the memory
  * Not good if list needs to be manipulated many times
- * Access each entry directly without iterating through the entire list 
+ * Access each entry directly without iterating through the entire list
+ * ArrayLis is used for Storing and accessing
  * 
  * @author prithviMandula
  */
@@ -42,5 +43,8 @@ public class ArrayList_Example {
         data.forEach((word)-> {
             System.out.println(word);
         });
+
+        //Accessing an Entry through Index
+        System.out.println("Entry at index one is " + data.get(1));
     }
 }
