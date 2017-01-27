@@ -12,7 +12,7 @@
 > In List, User has to keep in Track of next location where memory is allocated.
 
 > Array uses direct access of stored members.
->List uses sequencial access for members.
+> List uses sequencial access for members.
 
 ```
 //With Array you have direct access to memory position 5
